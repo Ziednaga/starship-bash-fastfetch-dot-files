@@ -15,10 +15,10 @@ In this repo, I save my dot files for Starship and Fastfetch that I designed for
 Feel free to copy files and modify them or clone the complete repository.
 
 <p align="center">
-  <img src="~/fastfetch/screenshots/Nobara-Linux-dot.png" style="width: 100%;">
+  <img src="./fastfetch/screenshots/Nobara-Linux-dot.png" style="width: 100%;">
 </p>
 <p align="center">
-  <img src="~/fastfetch/screenshots/Arch-Linux-dot.png" style="width: 100%;">
+  <img src="./fastfetch/screenshots/Arch-Linux-dot.png" style="width: 100%;">
 </p>
 
 ## Usage
